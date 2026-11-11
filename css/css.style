@@ -1,0 +1,80 @@
+nav a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 30px;
+}
+nav{
+    background-color: #352a1b;
+    text-align: center;
+}
+
+body{
+    background-color: #8e7259;
+    margin: 0;
+}
+
+#billede{
+    border: black solid;
+    width: 1000px;
+    max-width: 90%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+
+}
+
+#knap{
+    border: solid #352a1b;
+
+}
+
+
+.om-kaffebar {
+    padding: 100px 8%;
+  }
+
+.kaffe-indhold {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+}
+
+.om-kaffebar article {
+    padding: 30px;
+}
+
+.om-kaffebar h2{
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+.om-kaffebar p {
+    margin-bottom: 15px;
+}
+header{
+    color: #000000;
+    text-align: center;
+}
+
+
+.bold_text{
+    font-weight: bold;
+}
+
+footer{
+    background-color: #352a1b;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+ }
+
+ footer p {
+     margin-bottom: 15px;
+ }
+
+ .copyright {
+     margin-top: 30px;
+     font-size: 0.85rem;
+     opacity: 0.8;
+ }
